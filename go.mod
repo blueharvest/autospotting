@@ -1,4 +1,4 @@
-module blueharvest/jjones-smug/autospotting
+module blueharvest/blueharvest/autospotting
 
 go 1.14
 
