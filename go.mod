@@ -1,4 +1,4 @@
-module blueharvest/blueharvest/autospotting
+module github.com/blueharvest/autospotting
 
 go 1.14
 
